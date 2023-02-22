@@ -1,7 +1,7 @@
 <h1 align="center">Projeto 25 - Trybe Futebol Clube</h1>
 
 <div>
-  Para a realização do projeto, foram utilizadas as seguintes tecnologias: Express, MySql, API RESTful, MSC, Sequelize, NodeJs, TypeScript, TDD.
+  Para a realização do projeto, foram utilizadas as seguintes tecnologias: Express, MySql, API RESTful, MSC, Sequelize, NodeJs, TypeScript, POO, Docker, Testes.
 </div>
 
 ##
@@ -13,6 +13,8 @@
   * Utilizar banco de dados MySQL para a gestão de dados;</br>
   * Desenvolver API RESTful.</br>
   * Utilização de TypeScript;</br>
+  * POO;</br>
+  * Docker;</br>
   * Testes;</br>
 </div>
 
@@ -24,4 +26,5 @@
 
 ##
 <h3>Galeria:</h3>
-<img src="https://raw.githubusercontent.com/VitorMarceloSantos/Trybe-Projeto-24-Trybers-and-Dragons/main/resultado.png" title="Projeto - 24" alt="J"/><br/>
+<img src="https://raw.githubusercontent.com/VitorMarceloSantos/Trybe-Projeto-25-Trybe-Futebol-Clube/main/resultado_1.png" title="Projeto - 25" alt="J"/><br/>
+<img src="https://raw.githubusercontent.com/VitorMarceloSantos/Trybe-Projeto-25-Trybe-Futebol-Clube/main/resultado_2.png" title="Projeto - 25" alt="J"/><br/>
